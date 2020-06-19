@@ -28,7 +28,7 @@ echo ($idade == 23 or $nome == "allan")? "sou eu":"nao sou eu";
 //////////////////
 echo "<br>";
 ///////////////////
-/// ou eclusivo (xor) nao pode ser dois verdadeiros 
+/// ou exclusivo (xor) nao pode ser dois verdadeiros 
 $idade = 23;
 echo ($idade == 23 xor $nome == "allan")? "sou eu":"nao sou eu";
 echo "<br>";
