@@ -8,7 +8,7 @@ echo "Meu nome é $nome, minha idade é $idade, e minha altura é $altura.";
 
 $nome = "Alex mason";
 $idade = "43";
-$altura = 170;
+$altura = 1.70;
 echo "<hr>";
 echo "Meu nome é $nome, minha idade é $idade, e minha altura é $altura.";
 
